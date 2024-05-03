@@ -1,0 +1,7 @@
+__pycache__
+env
+
+whisper-large-v2-ct2
+*.bin
+*.mp3
+*.wav

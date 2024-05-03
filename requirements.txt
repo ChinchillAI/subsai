@@ -1,0 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+streamlink == 5.3.1
+ffmpeg-python == 0.2.0
+diart == 0.6.0
+openai-whisper == 20230314
+dl-translate==0.2.6
+faster-whisper==0.2.0
